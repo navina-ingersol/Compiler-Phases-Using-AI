@@ -1,17 +1,18 @@
 # AI-Based LLVM-Style Compiler Analysis
 
-Modern compilers such as LLVM use AI and machine learning
-techniques to analyze intermediate representations (IR)
-and guide optimization decisions.
+Modern compilers like LLVM use AI and machine learning
+to analyze intermediate representations (IR) and guide
+optimization decisions.
 
-In this project, an AI-based analysis approach inspired by
-LLVM ML-based optimization techniques was applied to the
+In this project, an AI-based analysis inspired by LLVM
+ML-driven optimization techniques was applied to the
 virtual compiler.
 
-The AI tool was conceptually used to:
-- Analyze intermediate code representations
-- Identify optimization opportunities
-- Validate phase-wise execution flow of the compiler
+The AI tool was used to:
+- Analyze three-address intermediate code
+- Detect redundant temporaries
+- Validate optimization correctness
+- Verify phase-wise execution flow
 
-This demonstrates the role of AI in modern compiler design
-without requiring full LLVM infrastructure.
+This demonstrates AI-assisted compiler analysis as
+used in modern compiler infrastructures.
