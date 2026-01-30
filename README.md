@@ -13,3 +13,12 @@ Phases implemented:
 
 Each phase is implemented in a separate folder with input,
 output, source code, and explanation.
+
+## AI in Compiler Design
+
+Apart from implementing all six compiler phases,
+an AI-based LLVM-style analysis layer was integrated.
+
+This AI layer analyzes intermediate representations,
+identifies optimization opportunities, and validates
+the correctness of the compiler pipeline.
