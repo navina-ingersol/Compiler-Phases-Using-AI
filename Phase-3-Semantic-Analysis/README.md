@@ -51,6 +51,3 @@ This phase **reuses the Lexical Analysis (Phase 1)** and
 
 ---
 
-## How to Compile
-```bash
-g++ lexer.cpp parser.cpp checker.cpp scope.cpp symbol.cpp type.cpp string.cpp -o semantic
