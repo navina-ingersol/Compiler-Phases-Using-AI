@@ -1,2 +1,0 @@
-Syntax Analysis Successful
-Grammar is valid
