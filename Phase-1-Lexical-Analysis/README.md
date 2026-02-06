@@ -17,7 +17,3 @@ groups them into meaningful tokens.
    - String literals
    - Operators and punctuators
 3. Whitespace and comments are ignored.
-
-## How to Compile
-```bash
-g++ lexer.cpp -o lexer
