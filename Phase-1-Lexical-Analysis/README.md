@@ -1,12 +1,5 @@
-# Phase 1: Lexical Analysis
+## Phase 1 – Lexical Analysis
 
-Lexical Analysis is the first phase of a compiler.
-It converts input characters into tokens.
-
-Input:
-int
-
-Output:
-KEYWORD
-
-This phase was implemented using an online C compiler with AI assistance.
+This phase implements a lexical analyzer in C++ for a simplified C language.
+The lexer scans the source code character by character and generates tokens
+such as keywords, identifiers, literals, and operators.
